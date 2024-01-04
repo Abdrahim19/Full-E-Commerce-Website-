@@ -542,5 +542,34 @@ font-weight: 400;
 line-height: 1.125rem;
 }
 
+/* 
+---------------------------------------------
+start the New Arrival section
+--------------------------------------------- 
+*/
+
+.left_content,
+.right_content {
+padding-top: 5.56rem;
+padding-inline: 1.88rem 1.81rem;
+}
+ .thub {
+  position: relative;
+  border-radius: 0.25rem;
+  color:white;
+}
+.inner_content {
+  position: absolute;
+  bottom: 2rem ;
+  left: 2rem;
+
+}
+.inner_content .product_name {
+
+}
+.inner_content .product_discrption {
+  margin-block: 1rem;
+  max-width: 30ch;
+}
 
  
